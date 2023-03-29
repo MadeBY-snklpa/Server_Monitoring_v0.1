@@ -10,5 +10,5 @@ The data collected by the IoT devices will be transmitted to a centralized cloud
 
 
 
-<img src="https://user-images.githubusercontent.com/65341172/227161592-21996063-89e4-4a22-bc1c-508b21fcb5ec.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/65341172/227161592-21996063-89e4-4a22-bc1c-508b21fcb5ec.png" >
 
